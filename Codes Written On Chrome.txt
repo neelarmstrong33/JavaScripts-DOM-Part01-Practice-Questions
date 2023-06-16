@@ -1,5 +1,26 @@
-document.getElementById('main-title)
-console.dir(document.getElementById('main-title))
-const h1 = document.getElementById('main-title)
+document.getElementById('main-title),
+console.dir(document.getElementById('main-title)),
+const h1 = document.getElementById('main-title),
 h1.getElementById() //will nor work
-document.getElementByClassName('list-item)
+document.getElementByClassName('list-item),
+document.querySelector('.list-item'),
+document.querySelectorAll('.list-item'),
+document.querySelector('ul li:first-of-type'),
+document.querySelector('ul li:last-of-type'),
+const ul = document.querySelector('ul'),
+ul.querySelector('li'),
+ul.querySelectorAll('li'),
+const h1 = document.querySelector('h1')
+h1.textContent
+h1.textContent = 'Some New Text',
+1.className = 'title',
+h1.style.color = 'blue',
+h1.style.backgroundColor = 'pink',
+document.querySelector('input'),
+const input = document.querySelector('input'),
+console.dir(input),
+const input2 = document.querySelector('input')
+input2.value = 'Some other value Entered by the user'
+input2.setAttribute('value','some other default text')
+input2.value
+input2.value = input2.getAttribute('value')
