@@ -1,0 +1,5 @@
+document.getElementById('main-title)
+console.dir(document.getElementById('main-title))
+const h1 = document.getElementById('main-title)
+h1.getElementById() //will nor work
+document.getElementByClassName('list-item)
